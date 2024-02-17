@@ -30,4 +30,24 @@ SENAO        // senao condicional else
 FIMSE  // Fimse final da condicional 
 
 fimalgoritmo  // termina o código
+
+````
+Exercicio em PYTHON 
+
+
+````py
+
+//Declarando variaveis 
+
+v1 = 20 
+v2 = 15
+
+//condicional if é o se entao 
+if v1 > v2:
+    print("v1 é maior") // print na tela 
+
+else:
+    print("v2 é o maior") // print na tela
+
+
 ````
